@@ -35,10 +35,8 @@ Python script that converts DISCORD UUID's to the name#tag
   - Tick the **Developer Mode** setting.
 ### How to retrieve account Discord UUID information
   - Right click on any user's (**Name/Picture**) in any chat and press **Copy ID**
-  - You have recieved their Discord UUID. Simply head into the python script / run the batch file. It will show a prompt where it gives you an option to run the UUID. Simply paste the uuid and press enter!
+  - You have recieved their Discord UUID. Simply head into the python script. It will show a prompt where it gives you an option to run the UUID. Simply paste the uuid and press enter!
   
-## 🛡️ Notice
-  Please be aware that running this batch file may trigger your antivirus (Everything is sourced so feel free to look through the python and batch script). Alternatively, you can just run the python script manually.
 ## ❌ Requirments
 - [Python](https://www.python.org/downloads/) || **https://www.python.org/downloads/**
 - [Discord.py](https://pypi.org/project/discord.py/) || **https://pypi.org/project/discord.py/**
