@@ -43,6 +43,6 @@ Python script that converts DISCORD UUID's to the name#tag
 - [Discord.py](https://pypi.org/project/discord.py/) || **https://pypi.org/project/discord.py/**
 
 
-## 🖼️ Images
-![image](https://user-images.githubusercontent.com/54733885/180590376-43cfe463-cfd9-4a4b-969c-efc05a5b99f9.png)
+## 🖼️ Example
+![cmd_T7CjxvFzBD](https://user-images.githubusercontent.com/54733885/180590492-1ba9efd7-8b8c-4ddd-a349-2137ac583659.gif)
 
