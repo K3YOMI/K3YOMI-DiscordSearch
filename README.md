@@ -12,6 +12,10 @@ Python script that converts DISCORD UUID's to the name#tag
 ![PY](https://custom-icon-badges.herokuapp.com/badge/Python-black.svg?logo=python&logoColor=blue)
 
 
+## 🔨 Supported Operating Systems
+<img src="https://img.shields.io/badge/Windows_10-black?style=flat-square&logo=windows"/> <img src="https://img.shields.io/badge/linux-black?style=flat-square&logo=linux"/>
+
+
 
 ## ⚙️ Configuration and Setup
   - [Setup your discord bot](https://discord.com/developers/applications) || **https://discord.com/developers/applications**
